@@ -1,10 +1,21 @@
 ATIVIDADE FEITA EM AULA
+<br>
 
-![Página de Login feita para ser feia mesmo](imagens_app/1.png)
+<div align="center">
+  <h3>Página de Login feita para ser feia mesmo</h3>
+  <img src="imagens_app/1.png" alt="Página de Login">
+</div>
+<br><br>
+<div align="center">
+  <h3>Página com a pizza de Chernobyl. Feia</h3>
+  <img src="imagens_app/2.png" alt="Página Chernobyl">
+</div>
+<br><br>
+<div align="center">
+  <h3>Página com a pizza do grau. Pior ainda</h3>
+  <img src="imagens_app/3.png" alt="Página Pizza Grau">
+</div>
 
-![Página com a pizza de Chernobyl. Feia](imagens_app/2.png)
-
-![Página com a pizza do grau. Pior ainda](imagens_app/3.png)
 
 
 # Sample Snack app
