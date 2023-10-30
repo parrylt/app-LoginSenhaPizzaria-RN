@@ -17,6 +17,7 @@ ATIVIDADE FEITA EM AULA
 </div>
 
 
+Agora fiquem com a mensagem padrão do snack
 
 # Sample Snack app
 
