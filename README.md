@@ -15,8 +15,9 @@ ATIVIDADE FEITA EM AULA
   <h3>Página com a pizza do grau. Pior ainda</h3>
   <img src="imagens_app/3.png" alt="Página Pizza Grau">
 </div>
-
-
+<br>
+o link do snack: https://snack.expo.dev/@romulojr/apploginsenhapizzaria
+<br>
 Agora fiquem com a mensagem padrão do snack
 
 # Sample Snack app
